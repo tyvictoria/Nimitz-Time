@@ -94,8 +94,8 @@ bootswatch: minty
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#55f2a6"
-link-color: "#1fff93"
+text-color: "#097d45"
+link-color: "#4bf2a2"
 base-font-family: helvetica neue
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
